@@ -1,0 +1,12 @@
+{
+  "name": "barber_app",
+  "displayName": "barber_app",
+  "expo": {
+    "name": "barber_app",
+    "slug": "barber_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
